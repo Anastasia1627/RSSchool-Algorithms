@@ -1,1 +1,1 @@
-# rolling-scopes-school
+# Algorithms for Rolling Scopes School
